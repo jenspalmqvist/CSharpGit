@@ -2,10 +2,11 @@
 
 namespace CSharpGit
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Console.WriteLine("The cow says SHAZOOO!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
@@ -18,8 +19,6 @@ namespace CSharpGit
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
 
-
-            Console.WriteLine("42");
         }
     }
 }
