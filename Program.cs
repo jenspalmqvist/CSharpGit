@@ -18,7 +18,6 @@ namespace CSharpGit
             Console.WriteLine();
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
-
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Hellooo!");
