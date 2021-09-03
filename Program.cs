@@ -11,6 +11,7 @@ namespace CSharpGit
             Console.WriteLine("Changes are cool!");
             Console.WriteLine("Kilroy was here.");
             Console.WriteLine("CHANGES WERE MADE // Jocke");
+            Console.WriteLine("<3");
         }
     }
 }
