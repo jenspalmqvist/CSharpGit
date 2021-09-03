@@ -6,6 +6,14 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
+            int a = 10; 
+            for (int i = 0; i < a; i++)
+            {
+                Console.WriteLine("hello world");
+
+            }
+
+
             Console.WriteLine("The cow says SHAZOOO!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
@@ -21,17 +29,9 @@ namespace CSharpGit
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
 
-
-
             Console.WriteLine("This is my change. There are many like it, but this one is mine. Without me my change is useless. Without my change I am useless!");
 
-
-
             Console.WriteLine("äntligen!!!!!!!!!!");
-
-            
-
-
 
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
@@ -43,6 +43,11 @@ namespace CSharpGit
             Console.WriteLine("hallå hallå hallå hallå hallå hallå");
             Console.WriteLine("Hejsan");
             string hello = "hallå hallå hallå hallå hallå ";
+            Console.WriteLine("Extremt användbart program!");
+            Console.WriteLine("All your base are belong to us!");
+            Console.Write("\n js test line");
+            Console.WriteLine(hello);
+            Console.WriteLine("Tjena mannen");
         }
     }
 }
