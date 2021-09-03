@@ -46,6 +46,8 @@ namespace CSharpGit
             Console.WriteLine("All your base are belong to us!");
             Console.Write("\n js test line");
             Console.WriteLine(hello);
+            Console.Write("ööööööö");
+
         }
     }
 }
