@@ -38,6 +38,7 @@ namespace CSharpGit
             Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
             Console.WriteLine("Try again");
+            Console.WriteLine("lalalalalala");
         }
     }
 }
