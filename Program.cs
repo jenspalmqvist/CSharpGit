@@ -22,6 +22,7 @@ namespace CSharpGit
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Hellooo!");
             Console.WriteLine("42");
+            Console.WriteLine("Try again");
         }
     }
 }
