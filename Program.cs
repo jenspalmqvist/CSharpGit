@@ -44,6 +44,7 @@ namespace CSharpGit
             string hello = "hallå hallå hallå hallå hallå ";
             Console.WriteLine("Extremt användbart program!");
             Console.WriteLine("All your base are belong to us!");
+            Console.Write("\n js test line");
         }
     }
 }
