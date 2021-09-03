@@ -43,9 +43,9 @@ namespace CSharpGit
 
             Console.WriteLine("äntligen!!!!!!!!!!");
 
-            
 
 
+            Console.Beep(400, 5000);
 
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
