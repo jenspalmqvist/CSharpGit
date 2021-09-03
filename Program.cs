@@ -50,6 +50,7 @@ namespace CSharpGit
             Console.WriteLine("Tjena mannen");
             Console.WriteLine("Tjabba duden");
             Console.WriteLine("PUSHAR UPP NÅNTING");
+            Console.WriteLine("Hello darkness my old friend");
         }
     }
 }
