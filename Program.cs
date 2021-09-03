@@ -70,7 +70,7 @@ namespace CSharpGit
             Console.WriteLine("Tjabba duden");
             Console.WriteLine("PUSHAR UPP NÅNTING");
             Console.WriteLine("Låna?");
-            Console.WriteLine("Beep/a");
+            Console.WriteLine("Beep\a");
         }
     }
 }
