@@ -36,7 +36,9 @@ namespace CSharpGit
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Hellooo!");
+            Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
+            Console.WriteLine("Try again");
         }
     }
 }
