@@ -48,6 +48,7 @@ namespace CSharpGit
             Console.Write("\n js test line");
             Console.WriteLine(hello);
             Console.WriteLine("Tjena mannen");
+            Console.WriteLine("Tjabba duden");
         }
     }
 }
