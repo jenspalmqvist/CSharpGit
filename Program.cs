@@ -11,6 +11,7 @@ namespace CSharpGit
             Console.WriteLine("Changes are cool!");
 
             Console.WriteLine("Cowabunga");
+            Console.WriteLine("Sardiner på pizza!");
         }
     }
 }
