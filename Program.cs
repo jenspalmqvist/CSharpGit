@@ -20,6 +20,7 @@ namespace CSharpGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
+            Console.WriteLine("I was here");
             Console.WriteLine("Amanda was here");
             Console.WriteLine(Math.Cbrt(1000.0));
             Console.WriteLine("Mike is soo cööl");
@@ -35,21 +36,19 @@ namespace CSharpGit
             Console.ForegroundColor = ConsoleColor.DarkGreen;
 
 
-
             Console.WriteLine("äntligen!!!!!!!!!!");
 
-
+            
 
 
 
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
+            Console.WriteLine("Vad är meningen med livet?");
             Console.WriteLine("Hellooo!");
             Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
-
-            Console.WriteLine("Ute i skogen där växa blåbär");
-
+            Console.WriteLine("Try again");
         }
     }
 }
