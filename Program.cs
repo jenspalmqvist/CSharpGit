@@ -10,6 +10,7 @@ namespace CSharpGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
+            Console.WriteLine("Amanda was here");
             Console.WriteLine(Math.Cbrt(1000.0));
             Console.WriteLine("Mike is soo cööl");
             Console.WriteLine();
@@ -18,6 +19,18 @@ namespace CSharpGit
             Console.WriteLine();
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
+
+
+
+
+
+
+
+            Console.WriteLine("äntligen!!!!!!!!!!");
+
+
+
+
 
             Console.WriteLine("New line");
 
