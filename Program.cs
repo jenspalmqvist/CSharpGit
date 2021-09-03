@@ -24,6 +24,7 @@ namespace CSharpGit
             Console.WriteLine("Hellooo!");
             Console.WriteLine("42");
             Console.WriteLine("Extremt användbart program!");
+            Console.WriteLine("knuff");
         }
     }
 }
