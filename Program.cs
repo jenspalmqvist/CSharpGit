@@ -10,7 +10,6 @@ namespace CSharpGit
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
 
-            Console.WriteLine("En extra rad tillagd av Tomas");
         }
     }
 }
