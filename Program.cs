@@ -6,6 +6,12 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
+            int a = 10;
+            for (int i = 0; i < a; i++)
+            {
+                Console.WriteLine("hello world");
+            }
+
             Console.WriteLine("The cow says SHAZOOO!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
@@ -38,6 +44,8 @@ namespace CSharpGit
             Console.WriteLine("All your base are belong to us!");
 
             Console.WriteLine("KalleMaja");
+            Console.Write("\n js test line");
+            Console.WriteLine(hello);
         }
     }
 }
