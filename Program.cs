@@ -21,6 +21,7 @@ namespace CSharpGit
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Hellooo!");
+            Console.WriteLine("Är man stark behöver man inte vara snäll!");
         }
     }
 }
