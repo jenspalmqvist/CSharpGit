@@ -22,6 +22,8 @@ namespace CSharpGit
 
             Console.WriteLine("äntligen!!!!!!!!!!");
 
+            Console.WriteLine("Bamse");
+
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Hellooo!");
