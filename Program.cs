@@ -7,14 +7,7 @@ namespace CSharpGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Changes!");
-            Console.WriteLine("Changes!");
-            Console.WriteLine("Changes!");
-            Console.WriteLine("Changes!");
-            Console.WriteLine("Changes!");
-            Console.WriteLine("Changes!");
-            Console.WriteLine("Changes!");
-
+            Console.WriteLine("Changes are fun!");
         }
     }
 }
