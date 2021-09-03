@@ -18,6 +18,8 @@ namespace CSharpGit
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
 
+
+            Console.WriteLine("42");
         }
     }
 }
