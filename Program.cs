@@ -10,6 +10,7 @@ namespace CSharpGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
+            Console.WriteLine("I was here");
             Console.WriteLine("Amanda was here");
             Console.WriteLine(Math.Cbrt(1000.0));
             Console.WriteLine("Mike is soo cööl");
@@ -28,7 +29,7 @@ namespace CSharpGit
 
             Console.WriteLine("äntligen!!!!!!!!!!");
 
-
+            
 
 
 
@@ -39,6 +40,10 @@ namespace CSharpGit
             Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
             Console.WriteLine("Try again");
+            Console.WriteLine("hallå hallå hallå hallå hallå hallå");
+            string hello = "hallå hallå hallå hallå hallå ";
+            Console.WriteLine("Extremt användbart program!");
+            Console.WriteLine("All your base are belong to us!");
         }
     }
 }
