@@ -22,7 +22,7 @@ namespace CSharpGit
 
 
 
-
+            Console.WriteLine("This is my change. There are many like it, but this one is mine. Without me my change is useless. Without my change I am useless!");
 
 
 
@@ -33,8 +33,11 @@ namespace CSharpGit
 
 
             Console.WriteLine("New line");
-
-            Console.WriteLine("Bambambamalam");
+            Console.WriteLine("Vem vare som kasta!??");
+            Console.WriteLine("Hellooo!");
+            Console.WriteLine("42, is the answer to the ultimate question");
+            Console.WriteLine("42");
+            Console.WriteLine("Try again");
         }
     }
 }
