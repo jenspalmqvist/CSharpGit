@@ -6,11 +6,15 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
-            int a = 10;
-            for (int i = 0; i < a; i++)
-            {
-                Console.WriteLine("hello world");
-            }
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+
+            Console.WriteLine("Changes are fun!");
+            Console.WriteLine("Changes are cool!");
+            Console.WriteLine("Hej hopp!!!");
+
+            Console.WriteLine("Mike is soo cööl");
+            Console.WriteLine();
+
 
             Console.WriteLine("The cow says SHAZOOO!");
             Console.WriteLine("Hello World!");
@@ -26,6 +30,10 @@ namespace CSharpGit
             Console.WriteLine();
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
+            Console.WriteLine("Imad added his name...");
+
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+
 
 
 
@@ -45,6 +53,9 @@ namespace CSharpGit
             Console.WriteLine("Hellooo!");
             Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
+
+            Console.WriteLine("Ute i skogen där växa blåbär");
+
             Console.WriteLine("Try again");
             Console.WriteLine("hallå hallå hallå hallå hallå hallå");
             Console.WriteLine("Hejsan");
