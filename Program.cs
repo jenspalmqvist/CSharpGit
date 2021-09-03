@@ -6,6 +6,9 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
+
+            
+
             Console.ForegroundColor = ConsoleColor.DarkGreen;
 
             Console.WriteLine("Changes are fun!");
@@ -37,6 +40,10 @@ namespace CSharpGit
             Console.WriteLine("This is my change. There are many like it, but this one is mine. Without me my change is useless. Without my change I am useless!");
 
             Console.WriteLine("äntligen!!!!!!!!!!");
+
+
+
+            Console.Beep(400, 5000);
 
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
