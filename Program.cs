@@ -20,6 +20,7 @@ namespace CSharpGit
             Console.WriteLine("Boink!");
 
             Console.WriteLine("New line");
+            Console.WriteLine("Hellooo!");
         }
     }
 }
