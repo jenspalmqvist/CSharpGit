@@ -6,6 +6,7 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
+            /*
             int a = 10; 
             for (int i = 0; i < a; i++)
             {
