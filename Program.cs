@@ -21,9 +21,17 @@ namespace CSharpGit
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
 
+
+
             Console.WriteLine("This is my change. There are many like it, but this one is mine. Without me my change is useless. Without my change I am useless!");
 
+
+
             Console.WriteLine("äntligen!!!!!!!!!!");
+
+            
+
+
 
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
@@ -36,7 +44,7 @@ namespace CSharpGit
             string hello = "hallå hallå hallå hallå hallå ";
             Console.WriteLine("Extremt användbart program!");
             Console.WriteLine("All your base are belong to us!");
-            Console.Write("\n js test line");
+            Console.WriteLine("Beep\a");
         }
     }
 }
