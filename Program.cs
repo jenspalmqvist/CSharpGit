@@ -61,6 +61,16 @@ namespace CSharpGit
             Console.WriteLine("Hejsan");
             string hello = "hallå hallå hallå hallå hallå ";
             Console.WriteLine("Extremt användbart program!");
+            Console.WriteLine("All your base are belong to us!");
+
+            Console.WriteLine("KalleMaja");
+            Console.Write("\n js test line");
+            Console.WriteLine(hello);
+            Console.WriteLine("Tjena mannen");
+            Console.WriteLine("Tjabba duden");
+            Console.WriteLine("PUSHAR UPP NÅNTING");
+            Console.WriteLine("Låna?");
+            Console.WriteLine("Beep\a");
             Console.WriteLine("knuff");
         }
     }
