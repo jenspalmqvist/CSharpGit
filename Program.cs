@@ -9,7 +9,6 @@ namespace CSharpGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
-            Console.WriteLine("CHANGES WERE MADE // Jocke");
         }
     }
 }
