@@ -12,6 +12,7 @@ namespace CSharpGit
 
             Console.WriteLine("Mike is soo cööl");
             Console.WriteLine();
+            Console.WriteLine("Boink!");
 
         }
     }
