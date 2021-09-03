@@ -21,6 +21,7 @@ namespace CSharpGit
             Console.WriteLine("Boink!");
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
+            Console.WriteLine("Vad är meningen med livet?");
             Console.WriteLine("Hellooo!");
             Console.WriteLine("42");
             Console.WriteLine("Extremt användbart program!");
