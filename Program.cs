@@ -36,6 +36,7 @@ namespace CSharpGit
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Vad är meningen med livet?");
             Console.WriteLine("Hellooo!");
+            Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
         }
     }
