@@ -14,6 +14,7 @@ namespace CSharpGit
             Console.WriteLine();
 
             Console.WriteLine("Just living life and making changes!");
+            Console.WriteLine();
         }
     }
 }
