@@ -10,6 +10,7 @@ namespace CSharpGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
+            Console.WriteLine("Amanda was here");
             Console.WriteLine(Math.Cbrt(1000.0));
             Console.WriteLine("Mike is soo cööl");
             Console.WriteLine();
@@ -18,10 +19,23 @@ namespace CSharpGit
             Console.WriteLine();
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
+
+
+
+
+
+
+
+            Console.WriteLine("äntligen!!!!!!!!!!");
+
+
+
+
+
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Hellooo!");
-            Console.WriteLine("Är man stark behöver man inte vara snäll!");
+            Console.WriteLine("42");
         }
     }
 }
