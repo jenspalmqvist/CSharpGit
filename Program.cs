@@ -6,13 +6,12 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
+            int a = 10; 
             int a = 10;
             for (int i = 0; i < a; i++)
             {
                 Console.WriteLine("hello world");
-
             }
-
 
             Console.WriteLine("The cow says SHAZOOO!");
             Console.WriteLine("Hello World!");
@@ -45,10 +44,12 @@ namespace CSharpGit
             string hello = "hallå hallå hallå hallå hallå ";
             Console.WriteLine("Extremt användbart program!");
             Console.WriteLine("All your base are belong to us!");
+
+            Console.WriteLine("KalleMaja");
             Console.Write("\n js test line");
             Console.WriteLine(hello);
-            Console.Write("ööööööö");
-
+            Console.WriteLine("Tjena mannen");
+            Console.WriteLine("Tjabba duden");
         }
     }
-}.
+}
