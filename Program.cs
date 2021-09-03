@@ -6,7 +6,8 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Awesome sauce");
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
             Console.WriteLine("Hej hopp!!!");
@@ -55,6 +56,15 @@ namespace CSharpGit
             Console.Write("\n js test line");
             Console.WriteLine(hello);
             Console.WriteLine("Tjena mannen");
+
+           
+
+
+
+
+
+
+
         }
     }
 }
