@@ -20,17 +20,7 @@ namespace CSharpGit
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
 
-
-
-
-
-
-
             Console.WriteLine("äntligen!!!!!!!!!!");
-
-
-
-
 
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
