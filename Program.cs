@@ -26,7 +26,7 @@ namespace CSharpGit
             Console.WriteLine();
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
-            Console.WriteLine("Imad added his name.");
+            Console.WriteLine("Imad added his name...");
 
             Console.WriteLine("This is my change. There are many like it, but this one is mine. Without me my change is useless. Without my change I am useless!");
 
