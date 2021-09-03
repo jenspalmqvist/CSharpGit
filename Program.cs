@@ -6,6 +6,12 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
+
+            while (1 < 2)
+            {
+                Console.WriteLine("Oj då...");
+            }
+
             Console.ForegroundColor = ConsoleColor.DarkGreen;
 
             Console.WriteLine("Changes are fun!");
