@@ -6,12 +6,6 @@ namespace CSharpGit
     {
         private static void Main(string[] args)
         {
-
-
-            while (1 < 2)
-            {
-                Console.WriteLine("Oj då...");
-            }
             int a = 10;
             for (int i = 0; i < a; i++)
             {
