@@ -29,7 +29,7 @@ namespace CSharpGit
 
             Console.WriteLine("äntligen!!!!!!!!!!");
 
-
+            
 
 
 
@@ -40,6 +40,8 @@ namespace CSharpGit
             Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
             Console.WriteLine("Try again");
+            Console.WriteLine("hallå hallå hallå hallå hallå hallå");
+            string hello = "hallå hallå hallå hallå hallå ";
             Console.WriteLine("Extremt användbart program!");
             Console.WriteLine("All your base are belong to us!");
         }
