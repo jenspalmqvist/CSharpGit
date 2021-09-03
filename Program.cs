@@ -20,23 +20,14 @@ namespace CSharpGit
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
 
-
-
-
-
-
-
             Console.WriteLine("äntligen!!!!!!!!!!");
-
-
-
-
 
             Console.WriteLine("New line");
             Console.WriteLine("Vem vare som kasta!??");
             Console.WriteLine("Hellooo!");
             Console.WriteLine("42, is the answer to the ultimate question");
             Console.WriteLine("42");
+            Console.WriteLine("Skriver det igen. Extremt användbart program!");
         }
     }
 }
