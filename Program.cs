@@ -11,7 +11,7 @@ namespace CSharpGit
             Console.WriteLine("Changes are cool!");
             Console.WriteLine(Math.Cbrt(1000.0));
             Console.WriteLine("Mike is soo cööl");
-            Console.WriteLine();
+            Console.WriteLine("Shabadoobi");
         }
     }
 }
