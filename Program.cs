@@ -39,6 +39,7 @@ namespace CSharpGit
             Console.WriteLine("42");
             Console.WriteLine("Try again");
             Console.WriteLine("hallå hallå hallå hallå hallå hallå");
+            Console.WriteLine("Hejsan");
             string hello = "hallå hallå hallå hallå hallå ";
             Console.WriteLine("Extremt användbart program!");
             Console.WriteLine("All your base are belong to us!");
@@ -46,6 +47,8 @@ namespace CSharpGit
             Console.WriteLine("KalleMaja");
             Console.Write("\n js test line");
             Console.WriteLine(hello);
+            Console.WriteLine("Tjena mannen");
+            Console.WriteLine("Tjabba duden");
         }
     }
 }
