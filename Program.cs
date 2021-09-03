@@ -72,6 +72,7 @@ namespace CSharpGit
             Console.WriteLine("Låna?");
             Console.WriteLine("Beep\a");
             Console.WriteLine("knuff");
+            Console.WriteLine("Bla bla");
         }
     }
 }
