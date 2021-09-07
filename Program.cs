@@ -10,9 +10,9 @@ namespace CSharpGit
             for (int i = 0; i < a; i++)
             {
                 Console.WriteLine("hello world");
+                Console.WriteLine("The cow says SHAZOOO!");
             }
 
-            Console.WriteLine("The cow says SHAZOOO!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes are fun!");
             Console.WriteLine("Changes are cool!");
