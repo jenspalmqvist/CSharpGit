@@ -18,7 +18,7 @@ namespace CSharpGit
             Console.WriteLine();
             Console.WriteLine("JEEEeeeeeens");
             Console.WriteLine("Boink!");
-
+            Console.WriteLine("Another new line.");
             Console.WriteLine("New line");
         }
     }
